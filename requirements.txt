@@ -1,3 +1,4 @@
 FastAPI
 graphene
 starlette_graphene3
+uvicorn
